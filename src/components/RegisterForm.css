@@ -1,0 +1,70 @@
+/* Style the container */
+.register-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the heading */
+.register-heading {
+  font-size: 24px;
+  color: #436850;
+  margin-bottom: 20px;
+}
+
+/* Style the label */
+.register-label {
+  display: block;
+  margin-bottom: 5px;
+  color: #436850;
+}
+
+/* Style the input fields */
+.register-input {
+  width: calc(100% - 10px);
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+
+
+/* Style the cancel button */
+
+
+.register-button {
+  background-color: #436850; /* Couleur spécifiée */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.cancel-button {
+  background-color: #ccc;
+  color: #333;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.p {
+  /* Vos styles CSS existants */
+
+  /* Ajoutez ces styles pour centrer le texte, augmenter sa taille et le rendre blanc */
+  text-align: center; /* Pour centrer le texte */
+  font-size: 40px; /* Taille de police augmentée */
+  color: white; /* Couleur du texte blanc */
+  background-color: #436850;
+
+}
+.small-text {
+  font-size: 18px; /* Taille de police plus petite */
+}
